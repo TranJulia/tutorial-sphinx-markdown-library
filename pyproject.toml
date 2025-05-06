@@ -11,4 +11,5 @@ dynamic = ["version", "description"]
 doc = [
     "sphinx~=8.2.3",
     "myst-parser",
+    "furo",
 ]
